@@ -1,0 +1,11 @@
+type,rating,total
+Movie,TV-MA,2062
+Movie,TV-14,1427
+"TV Show",TV-MA,1145
+Movie,R,797
+"TV Show",TV-14,733
+Movie,TV-PG,540
+Movie,PG-13,490
+"TV Show",TV-PG,323
+Movie,PG,287
+"TV Show",TV-Y7,195
